@@ -19,7 +19,7 @@ public class BukuTamu {
         Tamu[0][nomor] = id;
         Tamu[1][nomor] = nama;
     }
-//method static untuk bagian nama tamu
+//method static untuk bagian alamat tamu
     public static void alamatTamu(String alamat, int nomor) {
         Tamu[2][nomor] = alamat;
     }
